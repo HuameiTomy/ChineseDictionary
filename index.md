@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Support WebPage for 现代汉语词典
 
-You can use the [editor on GitHub](https://github.com/HuameiTomy/ChineseDictionary/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+《现代汉语词典》自1978年正式出版以来做过多次修订,  它是一部久享盛誉的规范型词典，由商务印书馆出版。
+本软件采集《现代汉语词典》中的词语，提供给广大用户学习。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+特色功能：
+- 提供拼音检字、直接搜索的检索方式
+- 对每个汉字都有基本解释，同时可以查询网络释义。
 
-### Markdown
+联系方式：xihuamei_contact@163.com
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HuameiTomy/ChineseDictionary/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
